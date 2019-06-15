@@ -1,0 +1,48 @@
+/*HEADER navbar*/
+h1 {
+    font-style: oblique;
+    letter-spacing: 0.12em;
+}
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #f0f0f0;
+    position: fixed;
+    display: inline;
+}
+
+.navbar li {
+    font-size: 1em;
+    font-family: Verdana;
+    color: #fff;
+    float: left;
+    display: block;
+    padding: 4px 10px 5px 10px;
+    background-color: #000;
+}
+
+.navbar #curr_Page {
+    background-color:#5c334c;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #fff;       
+}
+.navbar li a:hover {
+    color: #ccc333;
+}
+content img {
+  float: left;
+  padding: 10px;
+}
+.quote {
+    font-family: Verdana;
+}
+hr.breaker {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, #fff, #5c334c, #fff);
+}
