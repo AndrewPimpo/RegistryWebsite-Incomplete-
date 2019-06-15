@@ -1,0 +1,9 @@
+-------------- EXPEDIA ----------------
+
+If you are testing this code, note the following:
+- config.php file will list
+  - DB name as "expedia"
+  - User and Password are default PHPmyAdmin settings
+  - WEB_ROOT and SITE_ROOT might need to be redefined for your device
+  
+  Otherwise some features have had issues I am currently trying to resolve.
